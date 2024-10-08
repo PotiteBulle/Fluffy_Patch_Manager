@@ -1,0 +1,31 @@
+# Ignorer les fichiers de log
+Logs/
+Backups/
+
+# Ignorer les fichiers de sauvegarde de PowerShell
+*.ps1~
+
+# Ignorer les fichiers temporaires de l'éditeur
+*.tmp
+*.temp
+
+# Ignorer les fichiers de compilation et de sortie
+bin/
+obj/
+
+# Ignorer les fichiers générés par Visual Studio
+.vs/
+*.suo
+*.user
+
+# Ignorer les fichiers de configuration de l'IDE
+*.sln
+*.csproj
+*.vbproj
+*.userprefs
+
+# Ignorer les fichiers de résultats d'exécution
+*.log
+
+# Ignorer le fichier de mot de passe
+secrets.json
