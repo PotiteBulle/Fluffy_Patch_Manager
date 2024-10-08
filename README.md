@@ -21,7 +21,6 @@ Outil d'automatisation développé en PowerShell, conçu pour gérer efficacemen
 
 - Droits d’administrateur·ice pour exécuter le script (certaines mises à jour nécessitent des privilèges élevés).
 
-- [PowerShell SMTP module | Mailkit](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/send-mailmessage?view=powershell-7.4&viewFallbackFrom=powershell-7.1) pour l'envoi d'email (si la fonctionnalité de notification est activée).
 
 ## Installation
 
