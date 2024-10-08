@@ -60,4 +60,4 @@ Mise à jour : KB5005030 - Installée avec succès
 Les contributions sont les bienvenues ! Si vous avez des idées d'améliorations ou si vous trouvez des bugs, n'hésitez pas à ouvrir une `issue` ou à soumettre une `pull request`.
 
 ## Licence
-Ce projet est sous [licence MIT](https://github.com/PotiteBulle/Fluffy_Patch_Manager/blob/main/LICENSE). Consultez le fichier LICENSE pour plus d’informations.
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](https://github.com/PotiteBulle/Fluffy_Patch_Manager/blob/main/LICENSE) pour plus d’informations.
