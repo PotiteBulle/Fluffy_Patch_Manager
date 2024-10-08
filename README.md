@@ -11,8 +11,6 @@ Outil d'automatisation développé en PowerShell, conçu pour gérer efficacemen
 
 - Génération de rapports : Crée un fichier texte détaillant les mises à jour disponibles et les résultats de l'installation dans le dossier `Logs`.
 
-- Envoi de notifications par email : Possibilité d'envoyer le rapport des mises à jour par email.
-
 - Planification automatique : Le script peut être planifié pour une exécution régulière via le Planificateur de tâches Windows.
 
 ## Prérequis
